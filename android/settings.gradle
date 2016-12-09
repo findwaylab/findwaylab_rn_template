@@ -1,0 +1,3 @@
+rootProject.name = 'findwaylab_rn_template'
+
+include ':app'
